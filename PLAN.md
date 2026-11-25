@@ -1,6 +1,6 @@
 # Implementation plan: micro-benchmarks
 
-Status: draft, 2026-11-19. Goes with [DESIGN.md](DESIGN.md), which says *what* is measured; this file says *how* it is built. Items marked **(verify)** are assumptions not yet checked.
+Status: **superseded** by [EVALUATION-PLAN.md](EVALUATION-PLAN.md) (2026-11-25). Draft of 2026-11-19. Goes with [DESIGN.md](DESIGN.md), which says *what* is measured; this file says *how* it is built. Items marked **(verify)** are assumptions not yet checked.
 
 ## Principles
 

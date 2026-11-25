@@ -1,6 +1,6 @@
 # Micro-benchmark design: when does composite delegation help?
 
-Status: draft, 2026-11-19. Items marked **(verify)** are assumptions not yet checked against the code or data.
+Status: **superseded** by [EVALUATION-PLAN.md](EVALUATION-PLAN.md) (2026-11-25). Draft of 2026-11-19. Items marked **(verify)** are assumptions not yet checked against the code or data.
 
 ## Goal
 
